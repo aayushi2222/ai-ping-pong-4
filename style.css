@@ -1,0 +1,55 @@
+.heading{
+    background-color:ivory;
+    color: black;
+    font-family:'Courier New', Courier, monospace;
+    font-weight: bolder;
+}
+.buttonins{
+    background-color:black;
+    color: ivory;
+    font-family:'Courier New', Courier, monospace;
+    font-weight: bolder;  
+    float:right;
+    margin-right: 20px;
+    float:inline-end;
+    
+}
+#start_button{
+    background-color:ivory;
+    color: black;
+    font-family:'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+
+#restart_button{
+    background-color:ivory;
+    color: black;
+    font-family:'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+
+
+h3{
+    color:black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.modal-dialog{
+    width: 90%;
+}
+.modalimage{
+    width: 50%;
+    display: inline-block;
+}
+
+.copy_right_footer{
+    position:fixed;
+    color:white;
+   bottom:0px;
+    width:100%;
+    background-color: black;
+    text-align:center;
+    line-height:2;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
